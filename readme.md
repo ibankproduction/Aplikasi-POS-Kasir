@@ -9,7 +9,7 @@ setting koneksi di config.php dan ganti username, password dan dbname nya
 ## Penggunaan Login
 Username : admin
 <br/>
-Password : 1234
+Password : admin1234
 <br>
 <span style="color:red">* Penggunaan Login untuk <b>single User</b> </span>
 
